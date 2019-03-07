@@ -1,0 +1,26 @@
+body {
+	background-color:#ffffb3;
+}
+	
+#reset {
+	border:solid 1px gray;
+	background-color:#ffcc99;
+	color: gray;
+	margin-top: 5px;
+}
+	
+#box td {
+	border:solid 1px gray;
+	vertical-align: middle;
+	text-align:center;
+	font-size:40px;
+	font-family:Times New Roman;
+	color: gray;
+	width: 55px;
+	height: 55px;
+}
+
+#box td:hover {
+	color: #ff9966;
+	cursor: hand;
+}
